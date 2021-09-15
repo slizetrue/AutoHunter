@@ -15,4 +15,4 @@ class Socials(commands.Cog):
 
 
 def setup(client):
-    client.add_cog(Fun(client))
+    client.add_cog(Socials(client))
